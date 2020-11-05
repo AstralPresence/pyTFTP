@@ -36,3 +36,6 @@ server.py [-p <port>] <server-root>
 There is also `--help` option available that explains all the options
 available, such as block and window size for the client and disabling uploads
 for the server.
+
+## TODO
+- [ ] Add progress indicator
